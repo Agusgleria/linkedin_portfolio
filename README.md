@@ -18,9 +18,10 @@ I build data-driven solutions that transform raw information into actionable ins
 ## 📊 Featured Projects
 
 ### 🔹 ClassicModels BI Dashboard – Sales & Profitability Intelligence
+End-to-end Power BI solution for sales and profitability analysis.
 
 **Technologies:** Microsoft Power Bi, Power Query, DAX, CSV Data Sources
-👉 Repository: [Add link here]
+🔗 [View Repository](https://github.com/Agusgleria/classicmodels-bi-dashboard_sales_and_profitability_intelligence)
 
 ---
 

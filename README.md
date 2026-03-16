@@ -23,6 +23,12 @@ End-to-end Power BI solution for sales and profitability analysis.
 **Technologies:** Microsoft Power Bi, Power Query, DAX, CSV Data Sources
 🔗 [View Repository](https://github.com/Agusgleria/classicmodels-bi-dashboard_sales_and_profitability_intelligence)
 
+### 🔹 Predictive Model with Random Forest Regressor – Predictive Argentina GDP
+Predictive ML model to estimate provincial GDP based on poverty and school dropout
+
+**Technologies:** Python, Pandas, NumPy, Scikit-learn, Matplotlib / Seaborn, Jupyter Notebook
+🔗 [View Repository](https://github.com/Agusgleria/predictive-model-for-Argentina_GDP_using_random_forest)
+
 ---
 
 ## 🛠 Technical Skills

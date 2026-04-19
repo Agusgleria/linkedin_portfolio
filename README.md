@@ -28,7 +28,7 @@ Predictive ML model to estimate provincial GDP based on poverty and school dropo
 🔗 [View Repository](https://github.com/Agusgleria/predictive-model-for-Argentina_GDP_using_random_forest)
 
 ### 🔹 Predictive Model with Polynomial Regression – Estimating Argentina GDP
-Estimate the Gross Domestic Product (GDP) at a provincial level in Argentina using socioeconomic indicators such as poverty rates and school dropout rates.**Technologies:** Python, Pandas, NumPy, Scikit-learn, Matplotlib / Seaborn, Jupyter Notebook
+Estimate the Gross Domestic Product (GDP) at a provincial level in Argentina using socioeconomic indicators such as poverty rates and school dropout rates. **Technologies:** Python, Pandas, NumPy, Scikit-learn, Matplotlib / Seaborn, Jupyter Notebook
 
 🔗 [View Repository](https://github.com/Agusgleria/predictive-model-for-Argentina_GDP_using_polynomial_regression.git)
 
